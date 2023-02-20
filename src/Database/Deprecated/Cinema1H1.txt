@@ -1,0 +1,14 @@
+Cinema 1| 
+
+Hall 1|
+|---Default layout---|
+ | 0 1 2 3 4 5 6 7 8 9 |
+A| X S X S S S S X S X |
+B| S S X S S S S X S S |
+C| S S X S S S S X S S |
+D| S S X S S S S X S S |
+E| S S X S S S S X S S |
+F| S S S S S S S S S S |
+G| S S S S S S S S S S |
+H| S S S S S S S S S S |
+I| S S S S S S S S S S |
