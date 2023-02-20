@@ -1,5 +1,3 @@
-## P.S I'm just gonna use this to communicate some of the more major changes
-
 # Folder explainations: (MVC design pattern)
 <ul>
     <li>Boundary: For user interfaces, to just show what the user will see on the console and get their input</li>
